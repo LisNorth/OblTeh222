@@ -6,7 +6,7 @@ def index():
     <html>
     <head><title>My App</title></head>
     <body>
-    <h1>Hello, world!!!!!</h1>
+    <h2 style="color: red; font-style: italic;">Hello, world!!!!!</h2>
     </body>
     </html>
     ''')
